@@ -1,11 +1,11 @@
 CXX = g++
 CXXFLAGS = -Wall
-STRUCTS = Implementation/structs
-UTIL = Implementation/utility
-ALG = Implementation/algorithms
-TESTS = Unit_test/Tests/tests
-RNG = Random_data_generator/random_data_generator
-MAIN = Implementation/main
+STRUCTS = ../Implementation/structs
+UTIL = ../Implementation/utility
+ALG = ../Implementation/algorithms
+TESTS = ../Unit_test/Tests/tests
+RNG = ../Random_data_generator/random_data_generator
+MAIN = ../Implementation/main
 
 all: main.exe
 

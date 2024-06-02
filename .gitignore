@@ -1,1 +1,4 @@
 /Proiect.zip
+*.obj
+*.o
+*.exe
